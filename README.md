@@ -15,6 +15,7 @@ The obtained waveforms does not match the reference waveforms.
 # Acknowledgement
 <p>Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
 <p>Cloud Based Analog IC Design Hackathon
-<p>Synopsys India
+<p>Synopsys India</p>
+  
 # Reference
 Suraj Kumar Saw, Sandeep Kumar Yadav, Madhusudan Maiti, Abir Jyoti Mondal, Alak Majumder(May 31, 2019) “A design approach of higher oscillation VCO made of CS amplifier with varying active load”.
