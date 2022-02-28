@@ -10,9 +10,11 @@ Synopsys tools have been used for creating and simuating the circuit.
 ![Screenshot (186)](https://user-images.githubusercontent.com/60666893/156043447-c4be324c-2225-4f21-a327-f74bf830f177.png)
 # Circuit Output Waveform(for Vctrl@1V)
 ![Screenshot (183)](https://user-images.githubusercontent.com/60666893/156043687-c70819a6-4c71-447e-a639-54ba6627fc3e.png)
+#Conclusion
+The obtained waveforms does not match the reference waveforms.
 # Acknowledgement
-Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
-Cloud Based Analog IC Design Hackathon
-Synopsys India
+<p>Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+<p>Cloud Based Analog IC Design Hackathon
+<p>Synopsys India
 # Reference
 Suraj Kumar Saw, Sandeep Kumar Yadav, Madhusudan Maiti, Abir Jyoti Mondal, Alak Majumder(May 31, 2019) “A design approach of higher oscillation VCO made of CS amplifier with varying active load”.
